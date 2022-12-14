@@ -10,24 +10,28 @@
 
 ## Problems 
 
-1. Write a function that takes an array of numbers and returns a new array containing only the even numbers in the original array.
-```js
-onlyEven([3, 15, 2, 18, 21, 26]); //returns [2, 18, 26]
-```
+1. Write a function named `pluralize` that takes an array of words that are singular and returns a new array of the same words pluralized.
+    
+    ```jsx
+    pluralize(animals) // ['cheetahs','dogs', 'cats', 'dodobirds', 'bears', 'dolphins']
+    ```
 
-2. Write a function that takes an array of numbers and returns a new array with the original array elements doubled.
-```js
-doubled([2, 40, 14, 3, 25]); //returns [4, 80, 28, 6, 50]
-```
+2. Write a function named `oddLength` that  takes an array of strings and returns an array of just the words that have an odd number of characters:
+    
+    ```jsx
+    oddLength(animals) // ['cheetah','dog', 'cat', 'dolphin']
+    ```
 
-3. Write a function that takes a string argument and returns a new string with vowels deleted.
-```js
-removeVowelsString("code challenge"); //returns "cd chllng"
-```
+3. Write a function named `longWords` that takes an array of strings and returns only the strings with more than 3 letters
+    
+    ```jsx
+    longWords(animals) // ['cheetah', 'dodobird', 'bear', 'dolphin']
+    ```
 
-4. Write a function that takes a string and returns that string in snake case (all lowercase characteres with underscores between words):
-```js
-snakeCase("This is a Sentence"); // returns "this_is_a_sentence"
-```
+4. Write a function named `longerThanSeven` that takes an array of strings and returns true if at least one of the strings in the array has a length longer than 7. 
+    
+    ```jsx
+    longerThanSeven(animals) // true 
+    ```
 
 
