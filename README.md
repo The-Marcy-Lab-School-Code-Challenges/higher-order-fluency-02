@@ -10,7 +10,7 @@
 
 ## Problems 
 
-Assume the following examples use the array.
+Assume the following examples use the array:
 
 ```javascript
 const animals = ['cheetah', 'dog', 'cat', 'dodobird', 'bear', 'dolphin'];
