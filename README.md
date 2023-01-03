@@ -12,7 +12,7 @@
 
 Assume the following examples use the array.
 
-    ```js
+    ```javascript
         const animals = ['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'];
     ```
 
