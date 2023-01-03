@@ -11,6 +11,7 @@
 ## Problems 
 
 Assume the following eamples use the array:
+
     ```js
         const animals = ['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'];
     ```
