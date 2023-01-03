@@ -10,6 +10,11 @@
 
 ## Problems 
 
+Assume the following eamples use the array:
+```js
+    const animals = ['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'];
+```
+
 1. Write a function named `pluralize` that takes an array of words that are singular and returns a new array of the same words pluralized.
     
     ```jsx
