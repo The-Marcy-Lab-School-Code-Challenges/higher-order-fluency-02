@@ -10,9 +10,9 @@
 
 ## Problems 
 
-Assume the following eamples use the array:
+Assume the following examples use the array.
 
-    ```jsx
+    ```js
         const animals = ['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'];
     ```
 
