@@ -13,19 +13,19 @@
 Assume the following examples use the array.
 
 ```javascript
-const animals = ['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'];
+const animals = ['cheetah', 'dog', 'cat', 'dodobird', 'bear', 'dolphin'];
 ```
 
 1. Write a function named `pluralize` that takes an array of words that are singular and returns a new array of the same words pluralized.
     
     ```jsx
-    pluralize(animals) // ['cheetahs','dogs', 'cats', 'dodobirds', 'bears', 'dolphins']
+    pluralize(animals) // ['cheetahs', 'dogs', 'cats', 'dodobirds', 'bears', 'dolphins']
     ```
 
 2. Write a function named `oddLength` that  takes an array of strings and returns an array of just the words that have an odd number of characters:
     
     ```jsx
-    oddLength(animals) // ['cheetah','dog', 'cat', 'dolphin']
+    oddLength(animals) // ['cheetah', 'dog', 'cat', 'dolphin']
     ```
 
 3. Write a function named `longWords` that takes an array of strings and returns only the strings with more than 3 letters
